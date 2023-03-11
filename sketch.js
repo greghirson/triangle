@@ -25,7 +25,7 @@ function setup() {
   
   
   
-  strokeWeight(2);
+  strokeWeight(1);
   point(p1[0], p1[1]);
   point(p2[0], p2[1]);
   point(p3[0], p3[1]);
